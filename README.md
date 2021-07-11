@@ -1,4 +1,4 @@
-## Lambda Function with Secured API Gateway with Auth0 as an Auhtoizer
+## Secured API using APIGateway backed by Lambda Function
 ![Use Case Diagram](https://github.com/thechetantalwar/secured-api-using-lambda/blob/master/diagram.png?raw=true)
 * Create your account at auth0.com
 * Creating Dyanmo DB Table
